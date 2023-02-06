@@ -1,0 +1,23 @@
+from matplotlib import pyplot as plt
+import numpy as np
+
+plt.plot([1, 2, 3, 4], [1, 4, 9, 16])
+plt.ylabel('some numbers')
+plt.xlabel('numbs x ray')
+plt.show()
+
+plt.plot([1, 2, 3, 4], [1, 4, 9, 16], 'ro')  # 默认格式字符串为"b-"，它是一条蓝色实线。例如，要绘制红色圆圈
+plt.axis([0, 6, 0, 20])  # axis()函数的输入是[xmin, xmax, ymin, ymax]，用于指定轴域的可视范围
+plt.show()
+
+data = {'a': np.arange(50),
+        'c': np.random.randint(0, 50, 50),
+        'd': np.random.randn(50)}
+data['b'] = data['a'] + 10 * np.random.randn(50)
+data['d'] = np.abs(data['d']) * 100
+
+plt.scatter('a', 'b', c='c', s='d', data=data)  # c:color s:size
+plt.xlabel('entry a')
+plt.ylabel('entry b')
+plt.show()
+

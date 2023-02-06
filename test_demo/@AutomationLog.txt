@@ -1,0 +1,18 @@
+2023-01-29 15:35:27.837 by_automation_test_demo.py[13] <module> -> Find Control Timeout(15s): {AutomationId: 'TextContainer', ControlType: TextControl}
+2023-01-29 15:35:59.204 by_automation_test_demo.py[13] <module> -> Find Control Timeout(15s): {AutomationId: 'TextContainer', ControlType: TextControl}
+2023-01-29 17:02:54.490 by_automation_test_demo.py[13] <module> -> Find Control Timeout(15s): {automationId: 'TextContainer', ControlType: TextControl}
+2023-01-29 18:03:57.214 by_automation_test_demo.py[13] <module> -> Find Control Timeout(15s): {AutomationId: 'TextContainer', ControlType: TextControl}
+2023-01-29 18:07:54.838 by_automation_test_demo.py[15] <module> -> Find Control Timeout(15s): {AutomationId: 'TextContainer', ControlType: TextControl}
+2023-01-29 18:08:23.523 by_automation_test_demo.py[14] <module> -> Find Control Timeout(15s): {AutomationId: 'TextContainer', ControlType: TextControl}
+2023-01-29 18:10:10.143 by_automation_test_demo.py[14] <module> -> Find Control Timeout(15s): {ClassName: 'ScrollViewer', ControlType: TextControl}
+2023-01-29 18:11:53.430 by_automation_test_demo.py[15] <module> -> Find Control Timeout(15s): {ClassName: 'ScrollViewer', ControlType: TextControl}
+2023-01-29 18:16:12.011 by_automation_test_demo.py[15] <module> -> Find Control Timeout(15s): {sertchDepth: 4, AutomationId: 'TextContainer', ControlType: TextControl}
+2023-01-29 18:17:15.728 by_automation_test_demo.py[15] <module> -> Find Control Timeout(15s): {AutomationId: 'TextContainer', ControlType: TextControl}
+2023-01-29 18:18:33.014 by_automation_test_demo.py[14] <module> -> Find Control Timeout(15s): {AutomationId: 'TextContainer', ControlType: TextControl}
+2023-01-30 09:32:53.099 by_automation_test_demo.py[14] <module> -> Find Control Timeout(15s): {AutomationId: 'TextContainer', ControlType: TextControl}
+2023-01-30 09:56:55.424 by_automation_test_demo.py[14] <module> -> Find Control Timeout(15s): {AutomationId: 'CalculatorResult', ControlType: TextControl}
+2023-01-30 10:10:30.946 by_automation_test_demo.py[14] <module> -> Find Control Timeout(15s): {AutomationId: 'TextContainer', ControlType: TextControl}
+2023-01-30 10:23:56.153 by_automation_test_demo.py[13] <module> -> Find Control Timeout(15s): {AutomationId: 'CalculatorResult', ControlType: TextControl}
+2023-01-30 10:29:14.451 by_automation_test_demo.py[13] <module> -> Find Control Timeout(15s): {AutomationId: 'CalculatorResult', ControlType: TextControl}
+2023-01-30 14:42:15.020 by_automation_test_demo.py[15] <module> -> Find Control Timeout(15s): {AutomationId: 'CalculatorResults', ControlType: TextControl}
+2023-01-30 16:50:22.253 by_wx_automation_test_demo.py[11] get_image_text -> Find Control Timeout(15s): {Name: '最小化', ControlType: ButtonControl}

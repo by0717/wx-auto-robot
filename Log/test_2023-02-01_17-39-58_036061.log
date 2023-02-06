@@ -1,0 +1,7 @@
+20230201 17:39:58 - MainProcess | MainThread | by_wx_set.img_full_path:26 - INFO -image_path is: d:/barry_git/Python/by_wechat/src_picture/file_transport_assistant.png
+20230201 17:39:58 - MainProcess | MainThread | by_wx_set.img_full_path:26 - INFO -image_path is: d:/barry_git/Python/by_wechat/src_picture/send_news.png
+20230201 17:39:58 - MainProcess | MainThread | by_wx_set.img_full_path:26 - INFO -image_path is: d:/barry_git/Python/by_wechat/src_picture/new_message_1.png
+20230201 17:39:58 - MainProcess | MainThread | by_wx_set.img_full_path:26 - INFO -image_path is: d:/barry_git/Python/by_wechat/src_picture/file_transport.png
+20230201 17:39:58 - MainProcess | MainThread | by_wx_set.img_full_path:26 - INFO -image_path is: d:/barry_git/Python/by_wechat/src_picture/R3s-3.png
+20230201 17:40:06 - MainProcess | MainThread | by_wx_set.get_last_session:193 - INFO -['四人帮', '订阅号', '博文视点《Django + Vue.js实战派》读者2群43084', '江苏3000Z测试-研发&测试', '武汉3000Z自测', '二月研发版本', '终端网关落地沟通（内部）', '智能组网回单问题解决群1', '招商银行信用卡']
+20230201 17:40:06 - MainProcess | MainThread | by_wx_set.get_last_session:195 - INFO -四人帮
